@@ -8,7 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 bs4 = "^0.0.1"
 html5lib = "^1.1"
-flask = "^1.1.2"
+flask = "^2.3.2"
 pyppeteer = "^0.2.2"
 
 [tool.poetry.dev-dependencies]
